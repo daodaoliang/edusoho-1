@@ -1,0 +1,5 @@
+logs/
+*.lock
+*.mp4
+*.pdf
+src/vendor/
